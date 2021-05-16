@@ -24,7 +24,7 @@
 ![image](./resource/structure.PNG)
 
 ## 🖥데모  
-![image](./resource/image1.PNG)  
+<img src="./resource/image1.PNG" width=50%/>  
 - obde , ocr 인식  
 
 ![image](./resource/project.gif)  
