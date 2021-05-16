@@ -16,10 +16,7 @@
 
 ## ⚙기술스택  
 
-<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white" height="40px"/> 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="40px"/> 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white" height="40px"/> 
-<img src="https://img.shields.io/badge/Tesseract-248BFB?style=flat-square&logo=Tesseract&logoColor=white" height="40px"/> 
+<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white" height="40px"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="40px"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white" height="40px"/> <img src="https://img.shields.io/badge/Tesseract-248BFB?style=flat-square&logo=Tesseract&logoColor=white" height="40px"/> 
 <br>  
 
 ## 📈구성도 (아키텍처)  
@@ -28,13 +25,15 @@
 
 ## 🖥데모  
 ![image](./resource/image1.PNG)  
-- obde , ocr 인식
+- obde , ocr 인식  
+
 ![image](./resource/project.gif)  
-- 시연 장면
+- 시연 장면  
+
 ![image](./resource/demo1.gif)  
-- 시연 화면
+- 시연 화면  
 
-
+<br>
 
 ## 👋팀 소개  
 - 팀명 : 낌태방
