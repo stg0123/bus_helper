@@ -16,9 +16,8 @@
 
 ## ⚙기술스택  
 
-<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white" height="40px"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="40px"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white" height="40px"/> <img src="https://img.shields.io/badge/Tesseract-248BFB?style=flat-square&logo=Tesseract&logoColor=white" height="40px"/> 
+<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" height="40px"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="40px"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white" height="40px"/> <img src="https://img.shields.io/badge/Tesseract-248BFB?style=flat-square&logo=Tesseract&logoColor=white" height="40px"/> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=googlecloudt&logoColor=white" height="40px"/>
 <br>  
-
 ## 📈구성도 (아키텍처)  
 
 ![image](./resource/structure.PNG)
