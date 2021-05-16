@@ -21,7 +21,7 @@
 
 ## 📈구성도 (아키텍처)  
 
-[image](./resource/structure.PNG)
+[image]("./resource/structure.PNG")
 
 ## 🖥데모
 
