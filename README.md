@@ -1,7 +1,7 @@
 
 # ✨시각장애인을 위한 버스도착 알림 장치✨  
 
-![image](./resource/main.png)
+![image](./resource/main2.png)
 
 <br>  
 
