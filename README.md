@@ -31,8 +31,9 @@
 <br>
 
 ## 🎖성과
-<p align="center"><img src="/resource/EEECS_2021_Program.png" width="90%"/></p>
-<p align="center"><img src="/resource/EEECS_2021_Program_1.png" width="90%"/></p>
+- EEECS학회 논문 승인 및 오프라인 출간
+<p align="center"><img src="/resource/EEECS_2021_Program.png" width="50%"/></p>
+<p align="center"><img src="/resource/EEECS_2021_Program_1.png" width="50%"/></p>
 
 ## 👋팀 소개  
 - 팀명 : 낌태방
