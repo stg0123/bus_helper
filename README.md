@@ -20,7 +20,7 @@
 
 ## 🖥데모  
 <img src="./resource/image1.PNG" width=65%/>  
-- obde , ocr 인식  
+- object detection , ocr 인식  
 
 ![image](./resource/project.gif)  
 - 시연 장면  
