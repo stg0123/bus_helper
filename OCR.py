@@ -3,7 +3,7 @@ import os
 from PIL import Image,ImageGrab
 import pytesseract
 import re
-# char = re.compile('[^0-9a-zA-Z-&ㄱ-ㅣ가-힣 !#?]') 정규식 기억이안남
+# char = re.compile('[^0-9a-zA-Z-&ㄱ-ㅣ가-힣 !#?]')
 
 def OCR_Get_Num(img) :
     height , width , tmp = img.shape
